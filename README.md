@@ -1,0 +1,4 @@
+- 👋 Hi, I’m CloTiZen
+- 👀 I’m interested in making simple macro
+- 🌱 I’m currently learning C, C#, C++, Python, Java, Java Script, html, css, wordpress, solaris, Linux, Autohotkey
+- 📫 How to reach me Discord: CloTiZen#6960 or instagram: won._.ryeol
